@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "636535051447",
+    "firebase_url": "https://fir-dbwithflutter.firebaseio.com",
+    "project_id": "fir-dbwithflutter",
+    "storage_bucket": "fir-dbwithflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636535051447:android:64cfe6eae1730b3bf2e932",
+        "android_client_info": {
+          "package_name": "com.example.loginScreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636535051447-uhq1jgmrqqeidhmdejmthmf0adqe5t2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6hanWUB4Mkqn-F7dlk03E0q-4acG3zOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636535051447-uhq1jgmrqqeidhmdejmthmf0adqe5t2u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "636535051447-21u5kosdegaopaojbmr1hr2atb908pfp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginScreen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
